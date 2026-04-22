@@ -1,0 +1,1 @@
+Nosso projeto é criar um site cujo objetivo é ter vários cursos disponibilizados por um certo preço acessível cada, onde pessoas interessadas poderam adquirir conhecimento em uma determinada área que deseja.
