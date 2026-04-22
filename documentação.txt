@@ -1,0 +1,24 @@
+Cada participante foi responsável pelas respectivas tarefas.
+
+
+Participante A - Líder do projeto --> Jéssica
+	o Cria o repositório principal
+	o Define a estrutura inicial do projeto
+	o Aprova os Pull Requests
+
+Participante B - Desenvolvedor Back-End --> Lívia
+	o Cria funcionalidades relacionadas à lógica principal
+	o Trabalha em uma branch própria
+
+Participante C - Desenvolvedor Front-End --> Samuel
+	o Cria arquivos de interface (ex.: HTML/CSS ou Markdown)
+	o Trabalha em uma branch própria
+
+Participante D - Documentação --> Jéssica
+	o Atualiza o README do projeto
+	o Documenta regras de colaboração e uso
+
+Participante E - Revisão/Tester --> Samuel
+	o Revisa código
+	o Simula conflitos e sugere correções
+	o Valida se o projeto funciona após os merges
