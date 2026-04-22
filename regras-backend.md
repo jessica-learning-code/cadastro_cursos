@@ -2,6 +2,6 @@
 Cada curso deve conter: 
 - Nome
 - Carga Horária
-- Descriçaõ 
+- Descrição
 - Não repetir cursos 
 - Manter padrão de escrita
