@@ -3,3 +3,7 @@ Nosso sistema tem como objetivo aprimorar o conhecimento, principalmente de prog
 Curso: Git
 Carga Horária: 10H 
 Descrição: Introdução ao Git, você aprenderá comandos básicos ao avamçado, como realizar versionamento.
+
+Curso:HTML e CSS
+Carga Horária: 20H
+Descrição: Criação de páginas web.
